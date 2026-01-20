@@ -1,0 +1,61 @@
+@media (min-width: 720px){
+
+    .hero{
+
+        .overlay{
+
+            .buttons{
+
+                flex-direction: row;
+                
+
+                a{
+
+                    height: 8vh;
+
+                }
+
+
+            }
+
+        }
+
+
+    }
+
+    .FitZone{
+
+        .cards{
+
+            flex-direction: row;
+
+        }
+
+
+    }
+
+    .services{
+
+        .all-services{
+
+            flex-direction: row;
+
+        }
+
+
+    }
+
+    .planos{
+
+        .all-planos{
+
+            flex-direction: row;
+
+
+        }
+
+
+    }
+
+
+}
